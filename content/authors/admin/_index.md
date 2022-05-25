@@ -43,7 +43,7 @@ social:
   link: https://osf.io
 - icon: discord
   icon_pack: fab
-  link: Forresfire#1662
+  link: https://discord.gg/wTYTvC5TBr
   
 superuser: true
 title: Moritz Walter

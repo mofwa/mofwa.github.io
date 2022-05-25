@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: University of Cologne
   url: https://uni-koeln.de
-role: PhD Student of Political Science
+role: Doctoral Researcher in Political Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,7 +34,17 @@ social:
   link: https://github.com/mofwa
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/mofwa
+  link: https://linkedin.com/in/mofwa
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io
+- icon: discord
+  icon_pack: fab
+  link: Forresfire#1662
+  
 superuser: true
 title: Moritz Walter
 ---

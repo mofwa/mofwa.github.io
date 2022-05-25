@@ -1,6 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Digitalization, Weaponized Interdependence and Business Power.
+
 education:
   courses:
   - course: PhD Student in Political Science
@@ -15,9 +15,9 @@ education:
 email: "walter@wiso.uni-koeln.de"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digitalization
+- Power
+- Inequality
 organizations:
 - name: University of Cologne
   url: https://uni-koeln.de
@@ -26,9 +26,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
+- icon: instagram
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://instagram.com/eski.moes
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -37,7 +37,7 @@ social:
   link: https://github.com/mofwa
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/mofwa
 superuser: true
 title: Moritz Walter
 ---

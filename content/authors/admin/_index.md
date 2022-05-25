@@ -29,9 +29,6 @@ social:
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/eski.moes
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mofwa
